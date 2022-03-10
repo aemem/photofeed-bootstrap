@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(224, 224, 224);
+    margin: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid{
+}
+
+ul.navbar{
+    background-color: rgba(253, 253, 253, 0.904);
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+#logo{
+   height: 40px;
+   margin-left: 100px;
+}
+
+#drop{
+    margin-right: 250px;
+}
+
+#create{
+    margin-left: 950px;
+}
+
+ul.nav-pills{
+    background-color: white;
+    width: 100%;
+}
+
+.pill{
+    height: 20px;
+}
+
+.modal-icon{
+    height: 25px;
+}
+
+.card{
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+.card-header{
+    background-color: white;
+}
+
+.photo-title{
+    float: left;
+}
+
+.photo-date{
+    float: right;
+    color: gray;
+}
+
+.photo-description{
+    padding: 10px;
+}
+
+.card-footer{
+    background-color: white;
+}
+
+.footer-left{
+    width: 200px;
+    float: left;
+}
+
+.footer-left p{
+    margin: 0;
+}
+
+.fa-heart{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+
+.fa-ellipsis-vertical{
+    float: right;
+    margin-top: 2px;
+}

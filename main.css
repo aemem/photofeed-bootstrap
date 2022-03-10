@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    margin-left: -15px;
+    margin-right: -15px;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul.navbar{
+    background-color: rgba(253, 253, 253, 0.904);
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+}
+
+#logo{
+    height: 40px;
+    margin-left: 100px;
+}
+
+#drop{
+    margin-right: 250px;
+}
+
+#create{
+    margin-left: 950px;
+}
+
+ul.nav-pills{
+    width: 100%;
+}
+
+.pill{
+    height: 20px;
+}
+
+.modal-icon{
+    height: 25px;
+}
